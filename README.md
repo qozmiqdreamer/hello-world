@@ -1,2 +1,2 @@
 # hello-world
-Just another repo
+Just another repo continuing the tradition of hello world.
